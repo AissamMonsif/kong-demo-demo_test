@@ -1,0 +1,3 @@
+consumers:
+- username: jsmith
+  service: payment-service
